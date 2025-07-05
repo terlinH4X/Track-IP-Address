@@ -2,7 +2,7 @@
 
 This program helps to track the location of IP addresses. It can be helpful for both security purposes or just for general knowledge. When you enter an IP address into the program, it will use an API to find the location of the IP address and provide that information as output.
 
-![Author: TERLIN](https://img.shields.io/badge/Author-KES--TRA-blue)
+![Author: TERLIN](https://img.shields.io/badge/Author-TERLIN-blue)
 ![Developed with: Python](https://img.shields.io/badge/Developed%20with-Python-orange)
 
 ---
